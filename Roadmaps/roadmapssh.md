@@ -1,4 +1,4 @@
-# Roadmaps to roughly anything IT
+# Roadmaps to get started in anything related to CS
 
 https://roadmap.sh/
 

@@ -4,7 +4,7 @@
 
 
 - # Odin Project 
-   Most deatiled and community built coruse  which covers everything from start to finish . Is mostly text based with empahsis on reading documentation 
+   Most deatiled and community built course which covers everything from start to finish . Is mostly text based with empahsis on reading documentation 
 
    [Link](https://www.theodinproject.com/)
 
@@ -18,7 +18,7 @@
 
    [Front End Development Libraries](https://www.freecodecamp.org/learn/front-end-development-libraries/)
 
-   Additionally refer to the youtube videos but quality of content may vary depending on the person who's the instructor for the course 
+   Additionally refer to the youtube videos but quality of content may vary depending on who's the instructor for the course 
 
 
    # Paid courses 

@@ -11,7 +11,7 @@ Contains almost all of core Java and Java need for DSA.
 
 [link](https://www.youtube.com/watch?v=xk4_1vDrzzo)
 
-A decnet Additional soruce to check out if you are stuck at any of the parts at in the Uinversity of Helsinki course
+A decent Additional soruce to check out if you are stuck at any of the parts at in the Uinversity of Helsinki course
 
 # Durga Software Solutions(Yotube channel)
 
