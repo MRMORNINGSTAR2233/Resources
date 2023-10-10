@@ -21,4 +21,11 @@
    Additionally refer to the youtube videos but quality of content may vary depending on the person who's the instructor for the course 
 
 
-   
+   # Paid courses 
+
+   - Anglea Yu's "100 day Web development Bootcmap" on udemy 
+   - Colt steele's "The Web Developer Bootcamp" on udemy 
+   - Zero to Mastery " The Complete Web Developer "
+
+   For udemy courses make sure to create a new account and Buy the courses on the same device you created the account before signing into another device  , because otherwise the course prices are changed to around 3 thousand rupees instead of the introductory  449 rupees offer
+    
